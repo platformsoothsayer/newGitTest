@@ -6,3 +6,6 @@ def rimfiredd():
 	
 def firered():
 	return "Hello"
+	
+def riffle():
+	return "It is a Weapon"
